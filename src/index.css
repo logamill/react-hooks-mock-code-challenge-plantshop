@@ -28,6 +28,11 @@ button.primary {
   color: white;
 }
 
+button.out {
+  background-color: grey;
+  color: black
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
